@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**codenoy/codenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Rorschach! 👋
 
-Here are some ideas to get you started:
+**_A Full Stack Developer_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Looking for Opportunities
+I am actively seeking new opportunities in full-stack development. If you have a position that aligns with my skills and experience, feel free to reach out to me.
+
+#### Small Tools and Projects
+- [随机密码,随机字符串,加密,解密](https://github.com/codenoy/chrome-plugin-random-pwd): Chrome Extension工具
+  - 生成随机密码, 随机字符串, uuid, base64加解密, md5等哈希加密算法.
+
+- [自定义OSS上传Headers](https://github.com/codenoy/picgo-plugin-oss-custom-headers): 一个Picgo插件
+  - 使用Picgo上传图片到OSS图床时自定义Header, 帮助添加浏览器Cache-Control, 完成HTTP缓存
