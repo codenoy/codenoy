@@ -1,12 +1,11 @@
 
 # Hello, I'm Rorschach! 👋
 
-**_A Full Stack Developer_**
+**_web全栈开发_**
 
-#### Looking for Opportunities
-I am actively seeking new opportunities in full-stack development. If you have a position that aligns with my skills and experience, feel free to reach out to me.
+状态: 求职中
 
-#### Small Tools and Projects
+#### 小工具
 - [随机密码,随机字符串,加密,解密](https://github.com/codenoy/chrome-plugin-random-pwd): Chrome Extension工具
   - 生成随机密码, 随机字符串, uuid, base64加解密, md5等哈希加密算法.
 
